@@ -1,0 +1,6 @@
+apply plugin: 'java'
+
+
+task myTask {
+    setDescription 'this is myTask balabla'
+}
